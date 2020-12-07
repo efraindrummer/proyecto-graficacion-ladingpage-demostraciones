@@ -6,7 +6,7 @@ El siguiente proyecto se trata de demostrar como funcionan los algoritmos de rot
 
 clonar el repositorio y abrir el index.html
 
-# algoritmos usado
+# algoritmos usados
 
 se usaron los algoritmos para hacer traslacion, rotacion, y escalamiento, si no antes se tiene conciencia al 100% se de que se usaron los metetodos respectivos para crear las figuras y asi poder manipularlas con estros 3 algoritmos anteriores.
 
